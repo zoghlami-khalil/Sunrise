@@ -34,8 +34,10 @@ Guideline:
 4. Push your code
 5. Create a pull request
 
-If you find a bug, feel free to just open an issue. make sure you explain how to reproduce it.<br/>
-If you have a feature request, post it as an issue and mention that it is a feature request. 
+If you find a bug, feel free to just open an [Issue](https://github.com/zoghlami-khalil/Sunrise/issues). Make sure you explain how to reproduce it.<br/>
+If you have a feature request, post it as an issue and mention that it is a feature request.<br/>
+
+Contributions should be under the terms of the [MIT](/LICENSE) license
 
 ## Preview
 
@@ -43,8 +45,9 @@ If you have a feature request, post it as an issue and mention that it is a feat
 
 ## Original developers
 
+The project was originally developed by:
 [Khalil Zoghlami](https://github.com/zoghlami-khalil)
 
 ## License
 
-[MIT](/LICENSE)
+This project is licensed under the [MIT](/LICENSE) license.
