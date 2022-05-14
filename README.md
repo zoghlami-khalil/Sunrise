@@ -47,4 +47,4 @@ If you have a feature request, post it as an issue and mention that it is a feat
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](/LICENSE)
