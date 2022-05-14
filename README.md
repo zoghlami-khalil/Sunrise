@@ -10,7 +10,7 @@ The code is divided into 2 parts:
 ### Mobile App
 The Cross platform Mobile App written in Flutter. Make sure you have flutter installed.<br/>
 We recommend using android studio for developing.<br/><br/>
-Download the flutter packages
+Download the flutter packages by running:
 ```
 flutter pub get
 ```
